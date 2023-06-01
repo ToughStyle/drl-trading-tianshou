@@ -8,14 +8,6 @@ This demo aims to create an intelligent and dynamic trading platform prototype b
 
 ![plot](./plot/crypto_trading.jpg)
 
-## Notes (written in Chinese)
-
-1. Hand on RL: gym environment and basic RL knowledge: https://www.wolai.com/davidzjw/iEYvTXN9zz8mnwZFRFt1Rb
-2. FinRL demo: multi-stock trading: https://www.wolai.com/davidzjw/7Mo7cbAhVjpCZK2PSSgETt
-3. Data source for crypto and some code analysis of FinRL: https://www.wolai.com/davidzjw/8gBjJXajTD8ncfUQhkvP1Z
-4. Hand on multi-crypto trading via DRL: https://www.wolai.com/davidzjw/3TUsZ1hAzvyKNtjwmG9uGH
-5. Some mathematical derivations for RL tradings: https://www.wolai.com/davidzjw/aAbJMKREaCwSCPg2dzoqQF
-
 ## Notebooks
 
 1. fetchs crypto-trading data
